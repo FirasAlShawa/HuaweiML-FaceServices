@@ -29,7 +29,7 @@
 
 ## Supported Environments
 	Devices with Android 4.4 or later are recommended.
-##Result 
+## Result 
 <img src="/app/images/result_1.jpg" height="250px">
 <img src="/app/images/result_2.jpg" height="250px">
 <img src="/app/images/result_3.jpg" height="250px">
