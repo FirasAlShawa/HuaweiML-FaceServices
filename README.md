@@ -30,10 +30,12 @@
 ## Supported Environments
 	Devices with Android 4.4 or later are recommended.
 ## Result 
-<img src="/app/images/result_1.jpg" height="250px">
-<img src="/app/images/result_2.jpg" height="250px">
-<img src="/app/images/result_3.jpg" height="250px">
-<img src="/app/images/result_4.jpg" height="250px">
-<img src="/app/images/result_5.jpg" height="250px">
+<table><tr>
+<td><img src="/app/images/result_1.jpg" height="250px"></td>
+<td><img src="/app/images/result_2.jpg" height="250px"></td>
+<td><img src="/app/images/result_3.jpg" height="250px"></td>
+<td><img src="/app/images/result_4.jpg" height="250px"></td>
+<td><img src="/app/images/result_5.jpg" height="250px"></td>
+</tr></table>
 ##  License
     The sample of HUAWEI ML Kit has obtained the [Apache 2.0 license.](https://www.apache.org/licenses/LICENSE-2.0).
